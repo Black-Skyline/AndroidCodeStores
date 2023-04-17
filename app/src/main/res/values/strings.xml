@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyUIShowApplication</string>
+    <string name="test">这是一个测试</string>
+</resources>
